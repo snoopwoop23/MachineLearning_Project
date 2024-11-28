@@ -1,3 +1,3 @@
 # MachineLearning_Project
 
-A comprehensive machine learning project showcasing predictive models and data-driven insights.
+A comprehensive Machine Learning project showcasing predictive models and data-driven insights.
